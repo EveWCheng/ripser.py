@@ -50,6 +50,7 @@ derivative works thereof, in binary and source code form.
 #include <queue>
 #include <sstream>
 #include <unordered_map>
+#include <limits>
 
 // #define INDICATE_PROGRESS
 
